@@ -282,13 +282,6 @@ Generated recipes include:
 - **Preparation Steps**: Detailed cooking instructions
 - **Chef's Notes**: Cultural insights and technique explanations
 
-## Contributing
-
-Feel free to modify and extend the system:
-- Add new embedding models in `vector_db_builder.py`
-- Customize prompts in `rag_chain.py`
-- Add new output formats in `main.py`
-- Enhance Ollama management in `ollama_manager.py`
 
 ## License
 Under CoSy Lab headed by Prof. Dr. Ganesh Bagler
